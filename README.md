@@ -1,4 +1,2 @@
-# lb
-
-TODO: Enter the cookbook description here.
+This cookbook is Loadbalancer cookbook with test wrapped, Provider: vagrant. 
 
